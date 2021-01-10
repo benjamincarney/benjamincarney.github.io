@@ -52,15 +52,32 @@ linkedin_username: benjamincarney
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Hi there! My name is Ben. I am a recent B.S. Computer Science grad from the University of Michigan,  
+  and I have recently begun a full-time role with AT&T Chicago as a Technology Development Program Engineer.
+  My experience spans everywhere from writing fullstack web and mobile apps in React, NodeJS, Swift, and Python, 
+  to creating scheduled microservices in Java/Apache Camel that are used to consume large datasets for machine 
+  learning (my current role).
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: AT&T
+        sub_title: Software Engineer (Technology Development Program)
+        caption: July 2020 - Present
+        # link: at&t.com
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Contributed over 600+ lines of NodeJS code to a local development tool used by several developers 
+          for "Handlebars" template syntax validation and streamlined a loading process that would ordinarily 
+          take hours over the course of a single day, yielding hours of saved development/labor costs and efficiency. 
+          Introduced an additional 300+ lines of code in unit testing to ensure code quality.
+          - Spearheaded the creation of a new Java/Maven/Apache Camel microservice totaling over 3000+ lines of code 
+          that would be used for directing terabytes worth of data over the course of its lifetime to inform customer 
+          segment marketing for att.com. Incorporated an additional 1200+ lines of unit testing code, and performed 
+          stress-testing to ensure stability under various data loads.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -79,18 +96,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
