@@ -143,7 +143,7 @@ content:
             url: https://github.com/benjamincarney/Garduino
         description: | # this will include new lines to allow paragraphs
           During the summer of 2018, my brother and I created an automated irrigation system that utilized a resistive soil moisture sensor, a DC powered solenoid 
-          valve and an Arduino circuit board to prevent or allow the flow of water through my personal garden. Written in C++.
+          valve, and an Arduino circuit board to prevent or allow the flow of water through my personal garden. Written in C++.
   - title: Education
     layout: list
     content:
@@ -151,7 +151,7 @@ content:
         title: University of Michigan - Ann Arbor
         sub_title: B.S. Computer Science
         caption: 2017-2020
-        quote: >
+        description: | # this will include new lines to allow paragraphs
           During my time at the University of Michigan, I gained extensive experience solving complex problems found both within and outside of the classroom. 
           Through my coursework I have gained experience working with a variety of programming languages, including C++, JavaScript, Python, Rust and OCaml. 
           My coursework has also introduced me to a number of fundamental concepts found in software engineering, including object-oriented programming, 
@@ -161,8 +161,8 @@ content:
           of students and individuals who are passionate about technology and who are eager to build many relevant technical and social skills not commonly taught
           inside the classroom. During my time with organization, I served as the Project Manager for the iOS core team and later as the President of the organization.
           My time with organization offered many valuable lessons in leadership, teamwork, and mentorship. I currently serve as a senior advisor for the organization.
-        description: | # this will include new lines to allow paragraphs
-          Coursework includes: Data Structures and Algorithms, Information Retrieval, Web Systems, Software Engineering, 
+
+          Coursework included: Data Structures and Algorithms, Information Retrieval, Web Systems, Software Engineering, 
           Computer Organization, Programming Languages, Theory of Computation, Discrete Mathematics, Statistics, and Spanish
   - title: A Little More About Me
     layout: text
