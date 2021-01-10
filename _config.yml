@@ -46,7 +46,7 @@ linkedin_username: benjamincarney
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: G-P58GPPVJ5D
-google_analytics: G-P58GPPVJ5D
+# google_analytics: G-P58GPPVJ5D
 
 # About Section
 # about_title: About Me (Use this to override about section title)
