@@ -78,7 +78,6 @@ content:
           that would be used for directing terabytes worth of data over the course of its lifetime to inform customer 
           segment marketing for att.com. Incorporated an additional 1200+ lines of unit testing code, and performed 
           stress-testing to ensure stability under various data loads.
-    content:
       - layout: left
         title: The Home Depot
         sub_title: Software Engineer Intern
@@ -93,7 +92,6 @@ content:
           - Initiated the development "App360", a React/Node.js/MongoDB application that aimed to consolidate data 
           on hundreds of Home Depot software applications, allowing directors, managers, and associates to communicate
            more effectively across teams and reduce redundancy in overlapping projects
-    content:
       - layout: left
         title: Rollout Deliveries
         sub_title: Software Engineer Intern
