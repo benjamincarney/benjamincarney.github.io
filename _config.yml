@@ -111,19 +111,18 @@ content:
     content:
       - layout: left
         title: Accev (Senior Capstone Project)
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link: https://github.com/benjamincarney/Accev
+        link_text: Github Repository
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/benjamincarney/Accev
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          During my final semester at the University of Michigan, 3 peers and I designed and implemented a crowd-sourced Swift/Firebase iOS application for 
+          "EECS 497: Human-Centered Software Design and Development" that was used to map out various accessibility features intended for disabled individuals
+          found among local businesses, landmarks, and other public areas. We utilized Google Maps/Places API, as well as Google/Facebook APIs for authentication.
   - title: Education
     layout: list
     content:
