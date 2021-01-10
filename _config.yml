@@ -62,7 +62,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: AT&T
         sub_title: Software Engineer (Technology Development Program)
         caption: July 2020 - Present
@@ -78,6 +78,35 @@ content:
           that would be used for directing terabytes worth of data over the course of its lifetime to inform customer 
           segment marketing for att.com. Incorporated an additional 1200+ lines of unit testing code, and performed 
           stress-testing to ensure stability under various data loads.
+    content:
+      - layout: left
+        title: The Home Depot
+        sub_title: Software Engineer Intern
+        caption: May 2019 - August 2019
+        # link: at&t.com
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Contributed 500+ lines of code to "Device Tracker", a React/Node.js application that would be used to 
+          locate 1000+ misplaced Android devices across hundreds of Home Depot retail locations, yielding hundreds
+           of thousands of dollars in savings in labor and replacement costs
+          - Initiated the development "App360", a React/Node.js/MongoDB application that aimed to consolidate data 
+          on hundreds of Home Depot software applications, allowing directors, managers, and associates to communicate
+           more effectively across teams and reduce redundancy in overlapping projects
+    content:
+      - layout: left
+        title: Rollout Deliveries
+        sub_title: Software Engineer Intern
+        caption: May 2018 - August 2018
+        # link: at&t.com
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Achieved peer-to-peer food delivery iOS/Swift application in a team consisting of 3 engineers over the
+           course of 12 weeks, utilizing GoogleMaps API as the primary engine behind core functionality
+          - Engineered end-to-end user registration, authentication, and payment flows to establish secure and reliable
+           storage of user's personal information, utilizing Google Firebase as primary data layer and Stripe API for secure transactions
+      
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -99,14 +128,15 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: top-left
+        title: University of Michigan - Ann Arbor
+        sub_title: B.S. Computer Science
+        caption: 2017-2020
+        #quote: >
+          #Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Coursework includes: Data Structures and Algorithms, Information Retrieval, Web Systems, Software Engineering, 
+          Computer Organization, Programming Languages, Theory of Computation, Discrete Mathematics, Statistics, and Spanish
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
