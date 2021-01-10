@@ -149,7 +149,7 @@ content:
     content:
       - layout: top-left
         title: University of Michigan - Ann Arbor
-        sub_title: B.S. Computer Science
+        sub_title: B.S. Computer Science, GPA 3.18/4.0
         caption: 2017-2020
         description: | # this will include new lines to allow paragraphs
           During my time at the University of Michigan, I gained extensive experience solving complex problems found both within and outside of the classroom. 
@@ -164,12 +164,11 @@ content:
 
           Coursework included: Data Structures and Algorithms, Information Retrieval, Web Systems, Software Engineering, 
           Computer Organization, Programming Languages, Theory of Computation, Discrete Mathematics, Statistics, and Spanish
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, NoSQL, LaTeX
+      Working knowledge: OCaml, React Native, Java, C#, Arduino, SQL, Cloud Services (AWS, Azure), Flask
 
 # Footer
 footer_show_references: true
