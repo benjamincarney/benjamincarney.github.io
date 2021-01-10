@@ -12,7 +12,7 @@ email: carneyb@umich.edu
 # email_title: Email (Email title override)
 phone: (248) 709-5792
 # phone_title: Phone (Phone title override)
-website: https://benjamincarney.github.io/personal-website/
+website: https://benjamincarney.github.io/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -160,15 +160,19 @@ content:
           In addition to my coursework, I was heavily involved with "Michigan Hackers", a computer science student organization that seeks to foster a community 
           of students and individuals who are passionate about technology and who are eager to build many relevant technical and social skills not commonly taught
           inside the classroom. During my time with organization, I served as the Project Manager for the iOS core team and later as the President of the organization.
-          My time with organization offered many valuable lessons in leadership, teamwork, and mentorship. I currently serve as a senior advisor for the organization.
+          My time with organization offered many valuable lessons in leadership, teamwork, and mentorship. I currently serve as a Senior Advisor for the organization.
 
           Coursework included: Data Structures and Algorithms, Information Retrieval, Web Systems, Software Engineering, 
           Computer Organization, Programming Languages, Theory of Computation, Discrete Mathematics, Statistics, and Spanish
-  - title: Skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, NoSQL, LaTeX
-      Working knowledge: OCaml, React Native, Java, C#, Arduino, SQL, Cloud Services (AWS, Azure), Flask
+  - title: Skills & Technologies
+    layout: list
+    content:
+      - layout: top-left
+        description: | # this will include new lines to allow paragraphs
+          Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, NoSQL, LaTeX
+      - layout: top-left
+        description: | # this will include new lines to allow paragraphs
+          Working knowledge: OCaml, React Native, Java, C#, Arduino, SQL, Cloud Services (AWS, Azure), Flask
 
 # Footer
 footer_show_references: true
