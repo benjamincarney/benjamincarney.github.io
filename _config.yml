@@ -114,7 +114,7 @@ content:
         link: https://github.com/benjamincarney/Accev
         link_text: Github Repository
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: https://github.com/benjamincarney/Accev
         description: | # this will include new lines to allow paragraphs
@@ -126,13 +126,24 @@ content:
         link: https://github.com/michiganhackers/photo-assassin-ios-app
         link_text: Github Repository
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Github page for project
             icon: fab fa-github
             url: https://github.com/michiganhackers/photo-assassin-ios-app
         description: | # this will include new lines to allow paragraphs
           During the 2019-2020 school year, I lead a team of 15 Michigan Hacker iOS team members in the planning, designing, and implementation of a gamified iOS 
           application centered around discretely taking photos of opponents in elimination-style rounds. We utilized Swift, UIKit, Firebase, and Facebook/Google 
-          APIs for authentication
+          APIs for authentication.
+      - layout: left
+      title: Garduino
+      link: https://github.com/benjamincarney/Garduino
+      link_text: Github Repository
+      additional_links:
+        - title:  Github page for project
+          icon: fab fa-github
+          url: https://github.com/benjamincarney/Garduino
+        description: | # this will include new lines to allow paragraphs
+          During the summer of 2018, my brother and I created an automated irrigation system that utilized a resistive soil moisture sensor, a DC powered solenoid 
+          valve and an Arduino circuit board to prevent or allow the flow of water through my personal garden. Written in C++.
   - title: Education
     layout: list
     content:
