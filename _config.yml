@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Benjamin Carney
-title: Software Engineer
+title: Software Engineer @ AT&T
 email: carneyb@umich.edu
 # email_title: Email (Email title override)
 phone: (248)709-5792
@@ -16,7 +16,7 @@ website: https://benjamincarney.github.io/personal-website/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
