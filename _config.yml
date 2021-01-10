@@ -1,6 +1,6 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: benjamincarney/personal-website
+favicon: images/Dome.JPG
 
 # Content configuration version
 version: 2
@@ -10,7 +10,7 @@ name: Benjamin Carney
 title: Software Engineer @ AT&T
 email: carneyb@umich.edu
 # email_title: Email (Email title override)
-phone: (248)709-5792
+phone: (248) 709-5792
 # phone_title: Phone (Phone title override)
 website: https://benjamincarney.github.io/personal-website/
 # website_title: Web (Website title override)
