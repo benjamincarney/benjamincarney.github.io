@@ -166,13 +166,9 @@ content:
           Computer Organization, Programming Languages, Theory of Computation, Discrete Mathematics, Statistics, and Spanish
   - title: Skills & Technologies
     layout: list
-    content:
-      - layout: top-left
-        description: | # this will include new lines to allow paragraphs
-          Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, NoSQL, LaTeX
-      - layout: top-left
-        description: | # this will include new lines to allow paragraphs
-          Working knowledge: OCaml, React Native, Java, C#, Arduino, SQL, Cloud Services (AWS, Azure), Flask
+    content: | # this will include new lines to allow paragraphs
+      - Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, NoSQL, LaTeX \n
+      - Working knowledge: OCaml, React Native, Java, C#, Arduino, SQL, Cloud Services (AWS, Azure), Flask
 
 # Footer
 footer_show_references: true
