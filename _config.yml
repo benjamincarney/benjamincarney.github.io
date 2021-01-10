@@ -46,7 +46,7 @@ linkedin_username: benjamincarney
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-P58GPPVJ5D"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -150,7 +150,7 @@ content:
       - layout: top-left
         title: University of Michigan - Ann Arbor
         sub_title: B.S. Computer Science, GPA 3.18/4.0
-        caption: 2017-2020
+        caption: 2017 - 2020
         description: | # this will include new lines to allow paragraphs
           During my time at the University of Michigan, I gained extensive experience solving complex problems found both within and outside of the classroom. 
           Through my coursework I have gained experience working with a variety of programming languages, including C++, JavaScript, Python, Rust and OCaml. 
@@ -171,7 +171,7 @@ content:
       - Working knowledge: OCaml, React Native, Java, C#, Arduino, SQL, Cloud Services (AWS, Azure), Flask
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
