@@ -111,27 +111,19 @@ content:
     content:
       - layout: left
         title: Accev (Senior Capstone Project)
-        link: https://github.com/benjamincarney/Accev
-        link_text: Github Repository
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: https://github.com/benjamincarney/Accev
-        description: | # this will include new lines to allow paragraphs
-          During my final semester at the University of Michigan, 3 peers and I designed and implemented a crowd-sourced Swift/Firebase 
-          iOS application for "EECS 497: Human-Centered Software Design and Development". The app seeks to map out various accessibility 
-          features intended for disabled individuals found among local businesses, landmarks, and other public areas. We utilized Google Maps/Places API,
-          as well as Google/Facebook APIs for authentication.
-      - layout: left
-        title: PhotoAssassin
-        link: https://github.com/michiganhackers/photo-assassin-ios-app
-        link_text: Github Repository
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: https://github.com/michiganhackers/photo-assassin-ios-app
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Over the course of the 2019-2020 school year, I lead a team of 15 Michigan Hacker iOS team members in the planning, designing, and implementation
-          of a gamified iOS application centered around discretely taking photos of opponents in elimination-style rounds. We utilized Swift, UIKit, Firebase, 
-          and Facebook/Google APIs for authentication
+          Description about the work on/with the project
   - title: Education
     layout: list
     content:
