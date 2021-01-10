@@ -52,11 +52,12 @@ linkedin_username: benjamincarney
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there! My name is Ben. I am a recent B.S. Computer Science grad from the University of Michigan,  
-  and I have recently begun a full-time role with AT&T Chicago as a Technology Development Program Engineer.
-  My experience spans everywhere from writing fullstack web and mobile apps in React, NodeJS, Swift, and Python, 
-  to creating scheduled microservices in Java/Apache Camel that are used to consume large datasets for machine 
-  learning (my current role).
+  Hi there! My name is Ben. I am a recent B.S. Computer Science grad from the University of Michigan, and I have recently 
+  begun a full-time role with AT&T Chicago as a Technology Development Program Engineer. My experience spans everywhere from
+  writing fullstack web and mobile apps in React, NodeJS, Swift, and Python, to creating scheduled microservices in Java/Apache Camel
+  that are used to consume large datasets for machine learning (my current role).
+
+  Outside of coding, I enjoy exercising, reading, cooking and writing and recording music. 
 
 content:
   - title: Experience
@@ -109,20 +110,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
+        title: Accev (Senior Capstone Project)
+        link: https://github.com/benjamincarney/Accev
+        link_text: Github Repository
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+            url: https://github.com/benjamincarney/Accev
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          During my final semester at the University of Michigan, 3 peers and I designed and implemented a crowd-sourced Swift/Firebase 
+          iOS application for "EECS 497: Human-Centered Software Design and Development". The app seeks to map out various accessibility 
+          features intended for disabled individuals found among local businesses, landmarks, and other public areas. We utilized Google Maps/Places API,
+          as well as Google/Facebook APIs for authentication.
+      - layout: left
+        title: PhotoAssassin
+        link: https://github.com/michiganhackers/photo-assassin-ios-app
+        link_text: Github Repository
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/michiganhackers/photo-assassin-ios-app
+        description: | # this will include new lines to allow paragraphs
+          Over the course of the 2019-2020 school year, I lead a team of 15 Michigan Hacker iOS team members in the planning, designing, and implementation
+          of a gamified iOS application centered around discretely taking photos of opponents in elimination-style rounds. We utilized Swift, UIKit, Firebase, 
+          and Facebook/Google APIs for authentication
   - title: Education
     layout: list
     content:
@@ -130,8 +139,16 @@ content:
         title: University of Michigan - Ann Arbor
         sub_title: B.S. Computer Science
         caption: 2017-2020
-        #quote: >
-          #Short institution or course description (optional)
+        quote: >
+          During my time at the University of Michigan, I gained extensive experience solving complex problems found both within and outside of the classroom. 
+          Through my coursework I have gained experience working with a variety of programming languages, including C++, JavaScript, Python, Rust and OCaml. 
+          My coursework has also introduced me to a number of fundamental concepts found in software engineering, including object-oriented programming, 
+          test-driven development, version control, and many other topics.
+
+          In addition to my coursework, I was heavily involved with "Michigan Hackers", a computer science student organization that seeks to foster a community 
+          of students and individuals who are passionate about technology and who are eager to build many relevant technical and social skills not commonly taught
+          inside the classroom. During my time with organization, I served as the Project Manager for the iOS core team and later as the President of the organization.
+          My time with organization offered many valuable lessons in leadership, teamwork, and mentorship. I currently serve as a senior advisor for the organization.
         description: | # this will include new lines to allow paragraphs
           Coursework includes: Data Structures and Algorithms, Information Retrieval, Web Systems, Software Engineering, 
           Computer Organization, Programming Languages, Theory of Computation, Discrete Mathematics, Statistics, and Spanish
@@ -148,7 +165,7 @@ footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: sproogen/modern-resume-theme 
 
 sass:
   sass_dir: _sass
