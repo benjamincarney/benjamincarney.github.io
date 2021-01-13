@@ -172,9 +172,9 @@ content:
   - title: Skills & Technologies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Proficient</mark>: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, LaTeX
+      - <mark>Proficient:</mark> C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, LaTeX
 
-      - <mark>Working knowledge</mark>: OCaml, Java, C#, React Native, Arduino, Flask
+      - <mark>Working knowledge:</mark> OCaml, Java, C#, React Native, Arduino, Flask
 
 # Footer
 footer_show_references: false
