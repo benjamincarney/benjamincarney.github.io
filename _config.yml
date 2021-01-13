@@ -144,6 +144,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           Built an automated irrigation system that utilizes a resistive soil moisture sensor, a DC powered solenoid valve and an Arduino circuit board to control
           the flow of water through my personal tomato and pepper garden. Written in C++.
+
+          ![GarduinoCircuit](images/Garduino.png)
+          ![GarduinoBox](images/Garduino2.JPG)
+          ![GarduinoGarden](images/Garduino3.JPG)
+
   - title: Education
     layout: list
     content:
@@ -167,9 +172,9 @@ content:
   - title: Skills & Technologies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, <mark>LaTeX</mark>
+      - <mark>Proficient</mark>: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, LaTeX
 
-      - Working knowledge: OCaml, Java, C#, React Native, Arduino, Flask
+      - <mark>Working knowledge</mark>: OCaml, Java, C#, React Native, Arduino, Flask
 
 # Footer
 footer_show_references: false
