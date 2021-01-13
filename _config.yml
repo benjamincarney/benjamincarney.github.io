@@ -167,7 +167,8 @@ content:
   - title: Skills & Technologies
     layout: list
     content: | # this will include new lines to allow paragraphs
-      - Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, LaTeX
+      - Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, <mark>LaTeX</mark>
+
       - Working knowledge: OCaml, Java, C#, React Native, Arduino, Flask
 
 # Footer
