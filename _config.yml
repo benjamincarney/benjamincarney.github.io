@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi there! My name is Ben. I am a recent B.S. Computer Science grad from the University of Michigan, and I have recently 
   begun a full-time role with AT&T Chicago as a Technology Development Program Engineer. My experience spans everywhere from
   writing fullstack web and mobile apps in React, NodeJS, Swift, and Python, to creating scheduled microservices in Java/Apache Camel
-  that are used to consume large datasets for machine learning (my current role).
+  that are used to consume large datasets for machine learning on att.com (my current role).
 
   Outside of coding, I enjoy exercising, reading, cooking, and writing/recording music. 
 
