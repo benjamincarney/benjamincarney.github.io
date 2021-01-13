@@ -1,6 +1,6 @@
 # Site
 repository: benjamincarney/personal-website
-favicon: images/favicon.ico
+favicon: images/Dome.JPG
 
 # Content configuration version
 version: 2
@@ -165,7 +165,7 @@ content:
           Coursework included: Data Structures and Algorithms, Information Retrieval, Web Systems, Software Engineering, 
           Computer Organization, Programming Languages, Theory of Computation, Discrete Mathematics, Statistics, and Spanish
   - title: Skills & Technologies
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
       - Proficient: C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, <mark>LaTeX</mark>
 
