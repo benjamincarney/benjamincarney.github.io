@@ -123,7 +123,9 @@ content:
           authentication system using secure native credential option and Google/Facebook APIs.
 
           ![AccevMap](/images/Accev.png)
+
           ![AccevMenu](/images/Accev2.png)
+
           ![AccevPin](/images/Accev3.png)
       - layout: left
         title: PhotoAssassin
@@ -137,6 +139,9 @@ content:
           Led a team of 12 team members in the planning, designing, and implementation of a gamified iOS 
           application centered around discretely taking photos of opponents in elimination-style rounds. We utilized Swift, UIKit, Firebase, and Facebook/Google 
           APIs for authentication.
+
+          ![MichiganHackers](/images/LightningTalk.jpg)
+
       - layout: left
         title: Garduino
         link: https://github.com/benjamincarney/Garduino
