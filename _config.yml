@@ -121,6 +121,10 @@ content:
           Designed and implemented a crowd-sourced Swift/Firebase iOS application that maps out various accessibility features at local businesses,
           landmarks, and other public areas for individuals with disabilities using Google Maps/Places API. Streamlined registration, login, and 
           authentication system using secure native credential option and Google/Facebook APIs.
+
+          ![AccevMap](/images/Accev.png)
+          ![AccevMenu](/images/Accev2.png)
+          ![AccevPin](/images/Accev3.png)
       - layout: left
         title: PhotoAssassin
         link: https://github.com/michiganhackers/photo-assassin-ios-app
@@ -146,7 +150,7 @@ content:
           the flow of water through my personal tomato and pepper garden. Written in C++.
 
           ![GarduinoCircuit](/images/Garduino.png)
-          ![GarduinoBox](/mages/Garduino2.JPG)
+          ![GarduinoBox](/images/Garduino2.JPG)
           ![GarduinoGarden](/images/Garduino3.JPG)
 
   - title: Education
