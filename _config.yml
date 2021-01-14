@@ -122,11 +122,8 @@ content:
           landmarks, and other public areas for individuals with disabilities using Google Maps/Places API. Streamlined registration, login, and 
           authentication system using secure native credential option and Google/Facebook APIs.
 
-          ![AccevMap](/images/Accev.png)
+          ![AccevCollage](/images/Accev.jpg)
 
-          ![AccevMenu](/images/Accev2.png)
-
-          ![AccevPin](/images/Accev3.png)
       - layout: left
         title: PhotoAssassin
         link: https://github.com/michiganhackers/photo-assassin-ios-app
