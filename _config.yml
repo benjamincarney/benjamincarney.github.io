@@ -154,17 +154,7 @@ content:
           Built an automated irrigation system that utilizes a resistive soil moisture sensor, a DC powered solenoid valve and an Arduino circuit board to control
           the flow of water through my personal tomato and pepper garden. Written in C++.
 
-          ![GarduinoCircuit](/images/Garduino.png)
-
-          `The Arduino circuit board, bread board and DC-powered solenoid valve.`
-
-          ![GarduinoBox](/images/Garduino2.JPG)
-
-          `The protective housing and hose link setup.`
-
-          ![GarduinoGarden](/images/Garduino3.JPG)
-
-          `Fresh peppers and tomatoes!`
+          ![GarduinoCollage](/images/GarduinoCollage.jpg)
 
   - title: Education
     layout: list
