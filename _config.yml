@@ -1,6 +1,6 @@
 # Site
 repository: benjamincarney/personal-website
-favicon: images/Dome.JPG
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -75,7 +75,7 @@ content:
           for "Handlebars" template syntax validation and streamlined a loading process that would ordinarily 
           take hours over the course of a single day, yielding hours of saved development/labor costs and efficiency. 
           Introduced an additional 300+ lines of code in unit testing to ensure code quality.
-          - Spearheaded the creation of a new Java/Maven/Apache Camel microservice totaling over 3000+ lines of code 
+          - Spearheaded the creation of a new Java/Maven/Apache Camel microservice totaling over 2600+ lines of code 
           that would be used for directing terabytes worth of data over the course of its lifetime to inform customer 
           segment marketing for att.com. Incorporated an additional 1200+ lines of unit testing code, and performed 
           stress-testing to ensure stability under various data loads.
