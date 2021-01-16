@@ -74,11 +74,18 @@ content:
           - Contributed over 600+ lines of NodeJS code to a local development tool used by several developers 
           for "Handlebars" template syntax validation and streamlined a loading process that would ordinarily 
           take hours over the course of a single day, yielding hours of saved development/labor costs and efficiency. 
-          Introduced an additional 300+ lines of code in unit testing to ensure code quality.
+          Introduced an additional 300+ lines of code in Mocha unit testing to ensure code quality.
           - Spearheaded the creation of a new Java/Maven/Apache Camel microservice totaling over 2600+ lines of code 
           that would be used for directing terabytes worth of data over the course of its lifetime to inform customer 
-          segment marketing for att.com. Incorporated an additional 1200+ lines of unit testing code, and performed 
+          segment marketing for att.com. Incorporated an additional 1200+ lines of Mockito unit testing code, and performed 
           stress-testing to ensure stability under various data loads.
+          - Proposed the practice of automated unit test generation using a tool called "EvoSuite" for a yearly innovation
+          sprint and upon approval, was tasked with guiding its implementation among a team of 9 other engineers, resulting 
+          in high-coverage, low-overhead test suites that required significantly less time to produce when compared alongside 
+          their manually produced counterparts.
+          - Served as the local Community Engagement lead and helped organize several virtual volunteering/fundraising opportunities 
+          with organizations such as Feeding America and MakerGirl, achieving just over \$500 allocated towards various causes over 
+          the course of my service.
       - layout: left
         title: The Home Depot
         sub_title: Software Engineer Intern
@@ -176,9 +183,9 @@ content:
   - title: Skills & Technologies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Proficient:</mark> C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, LaTeX
+      - <mark>Proficient:</mark> C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, LaTeX, Git, OSX
 
-      - <mark>Working knowledge:</mark> OCaml, Java, C#, React Native, Arduino, Flask
+      - <mark>Working knowledge:</mark> OCaml, Java, C#, React Native, Arduino, Flask, Windows, Linux
 
 # Footer
 footer_show_references: false
