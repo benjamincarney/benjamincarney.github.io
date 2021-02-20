@@ -168,12 +168,7 @@ content:
         sub_title: B.S. Computer Science
         caption: 2017 - 2020
         description: | # this will include new lines to allow paragraphs
-          During my time at the University of Michigan, I gained extensive experience solving complex problems found both within and outside of the classroom. 
-          Through my coursework I have gained experience working with a variety of programming languages, including C++, JavaScript, Python, Rust and OCaml. 
-          My coursework has also introduced me to a number of fundamental concepts found in software engineering, including object-oriented programming, 
-          test-driven development, version control, and many other topics.
-
-          In addition to my coursework, I was heavily involved with "Michigan Hackers", a computer science student organization that seeks to foster a community 
+          <mark>Leadership:</mark> In addition to my coursework, I was heavily involved with "Michigan Hackers", a computer science student organization that seeks to foster a community 
           of students and individuals who are passionate about technology and who are eager to build many relevant technical and social skills not commonly taught
           inside the classroom. During my time with organization, I served as the Project Manager for the iOS core team and later as the President of the organization.
           My time with organization offered many valuable lessons in leadership, teamwork, and mentorship. I currently serve as a Senior Advisor for the organization.
