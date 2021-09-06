@@ -66,6 +66,15 @@ content:
     layout: list
     content:
       - layout: left
+        title: NVIDIA
+        sub_title: Systems Software Engineer
+        caption: August 2021 - Present
+        # link: at&t.com
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Working on the embedded systems team as a systems engineer for onboard vehicle software and numerous backend services
+      - layout: left
         title: AT&T
         sub_title: Software Engineer
         caption: July 2020 - May 2021
