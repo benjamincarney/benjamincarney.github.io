@@ -75,6 +75,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Working on the embedded systems team as a systems engineer for onboard vehicle software and numerous backend services
       - layout: left
+        title: DeepMap
+        sub_title: Software Engineer
+        caption: June 2021 - August 2021
+        quote: >
+          Enhancing Mapping Capabilities for the Autonomous Vehicle Industry
+        description: | # this will include new lines to allow paragraphs
+          - (Acquired by NVIDIA in August of 2021)
+      - layout: left
         title: AT&T
         sub_title: Software Engineer
         caption: July 2020 - May 2021
