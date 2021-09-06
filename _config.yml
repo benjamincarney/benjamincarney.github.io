@@ -7,10 +7,9 @@ version: 2
 
 # Personal info
 name: Benjamin Carney
-title: Software Engineer @ AT&T
+title: Systems Software Engineer @ NVIDIA
 email: carneyb@umich.edu
 # email_title: Email (Email title override)
-phone: (248) 709-5792
 # phone_title: Phone (Phone title override)
 website: https://benjamincarney.github.io/
 # website_title: Web (Website title override)
@@ -66,10 +65,27 @@ content:
   - title: Experience
     layout: list
     content:
+    - layout: left
+        title: NVIDIA
+        sub_title: Systems Software Engineer
+        caption: August 2021 - Present
+        # link: at&t.com
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Working on the embedded systems team as a systems engineer for onboard vehicle software and numerous backend services
+     - layout: left
+        title: DeepMap
+        sub_title: Software Engineer
+        caption: June 2021 - August
+        quote: >
+          Enhancing Mapping Capabilities for the Autonomous Vehicle Industry
+        description: | # this will include new lines to allow paragraphs
+          - (Acquired by NVIDIA in August of 2021)
       - layout: left
         title: AT&T
         sub_title: Software Engineer
-        caption: July 2020 - Present
+        caption: July 2020 - May 2021
         # link: at&t.com
         # quote: >
           # Short description of the company (optional)
