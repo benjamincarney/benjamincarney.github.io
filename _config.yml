@@ -51,13 +51,10 @@ linkedin_username: benjamincarney
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there! My name is Ben. I am a recent B.S. Computer Science grad from the University of Michigan, and in July I began
-  a full-time role with AT&T as a Software Engineer. My experience spans everywhere from writing fullstack web and
-  mobile apps in React, NodeJS, Swift, and Python, to creating scheduled microservices in Java/Apache Camel that are used
-  to consume large datasets for machine learning on att.com (my current role).
+  Hi there! My name is Ben. I currently work at NVIDIA as a Systems Software Engineer. My experience spans everywhere from writing fullstack web and
+  mobile apps in React, NodeJS, Swift, and Python, to developing onboard vehicle software for autonomous vehicles (my current role).
 
-  Outside of coding, I enjoy weight lifting, running, reading, cooking, and writing/recording music. I also enjoy documenting 
-  experiences like this one through film and video:
+  Outside of coding, I enjoy weight lifting, running, reading, cooking, and writing/recording music. I also sometimes attempt to do photography.
 
   ![Plane](/images/Plane.JPG)
 
