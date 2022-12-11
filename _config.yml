@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Benjamin Carney
-title: Systems Software Engineer @ NVIDIA
+title: Systems Software Engineer II @ NVIDIA
 email: carneyb@umich.edu
 # email_title: Email (Email title override)
 # phone_title: Phone (Phone title override)
@@ -51,9 +51,9 @@ linkedin_username: benjamincarney
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi there! My name is Ben. I currently work at NVIDIA as a Systems Software Engineer. My experience spans everywhere from writing fullstack web and
-  mobile apps in React, NodeJS, Swift, and Python, to developing onboard vehicle software for autonomous vehicles (my current role).
-  I created this website as a way to showcase my past experience and various projects that I've worked on.
+  Hello and welcome to my personal website. I'm currently work at NVIDIA as a Systems Software Engineer on 
+  the autonomous vehicle mapping team. My experience spans everywhere from writing fullstack web and 
+  mobile apps to developing onboard vehicle software for autonomous vehicles (my current role). 
 
 content:
   - title: Experience
@@ -194,6 +194,12 @@ content:
 
           <mark>Coursework includes:</mark> Data Structures and Algorithms, Information Retrieval, Web Systems, Software Engineering, 
           Computer Organization, Programming Languages, Theory of Computation, Discrete Mathematics, Statistics, and Spanish
+      - layout: top-left
+        title: Oakland Community College - Auburn Hills
+        sub_title: A.A. - General Studies
+        caption: 2017 - 2020
+        description: | # this will include new lines to allow paragraphs
+          <mark>Coursework includes:</mark> Calculus I & II, Chemistry I & II, Biology, Environmental and Earth Sciences, Composition I & II
   - title: Skills & Technologies
     layout: text
     content: | # this will include new lines to allow paragraphs
