@@ -53,10 +53,7 @@ about_profile_image: images/Me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi there! My name is Ben. I currently work at NVIDIA as a Systems Software Engineer. My experience spans everywhere from writing fullstack web and
   mobile apps in React, NodeJS, Swift, and Python, to developing onboard vehicle software for autonomous vehicles (my current role).
-
-  Outside of coding, I enjoy weight lifting, running, reading, cooking, and writing/recording music. I also sometimes attempt to do photography.
-
-  ![Plane](/images/Plane.JPG)
+  I created this website as a way to showcase my past experience and various projects that I've worked on.
 
 content:
   - title: Experience
@@ -70,7 +67,11 @@ content:
         # quote: >
           # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Working on the embedded systems team as a systems engineer for onboard vehicle software and numerous backend services
+          - Executed and implemented a complete front-end redesign in React for a data collection tool used among a fleet of 100+ vehicles. 
+          Introduced 2000+ lines of new TypeScript code and thorough Jest unit testing to achieve high code coverage. Added several hundred
+          lines of Node.js back-end code for an API used to create, update, and search heartbeat records
+          - Implemented a suite of automated Jenkins integration tests in Python which was used to catch regressions in a map conversion tool 
+          that was heavily utilized and depended upon by several cross-functional teams
       - layout: left
         title: DeepMap (Acquired by NVIDIA in August of 2021)
         sub_title: Software Engineer
@@ -78,7 +79,11 @@ content:
         # quote: >
           # Enhancing Mapping Capabilities for the Autonomous Vehicle Industry
         description: | # this will include new lines to allow paragraphs
-          - A very short-lived startup experience
+          - Introduced 1000+ lines of code for several new metrics API endpoints and 500+ lines of accompanying JUnit testing code for 
+          tracking the performance of an important estimation algorithm. Created an Apache Superset dashboard to visualize the performance 
+          of the algorithm and identify unexpected regressions
+          - Contributed several new features such as an incident reporting workflow to a React/Node.js tool which was run inside a fleet 
+          of 15+ data collection vehicles and used by several different operators
       - layout: left
         title: AT&T
         sub_title: Software Engineer
@@ -87,21 +92,21 @@ content:
         # quote: >
           # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Contributed over 600+ lines of NodeJS code to a local development tool used by several developers 
-          for "Handlebars" template syntax validation and streamlined a loading process that would ordinarily 
+          - Contributed over 600+ lines of Node.js code to a local development tool used by several developers 
+          for syntax validation and streamlined a loading process that would ordinarily 
           take hours over the course of a single day, yielding hours of saved development/labor costs and efficiency. 
           Introduced an additional 300+ lines of code in Mocha unit testing to ensure code quality.
           - Spearheaded the creation of a new Java/Maven/Apache Camel microservice totaling over 2600+ lines of code 
-          that would be used for directing terabytes worth of data over the course of its lifetime to inform customer 
-          segment marketing for att.com. Incorporated an additional 1200+ lines of Mockito unit testing code, and performed 
-          stress-testing to ensure stability under various data loads.
+          that would be used for directing terabytes worth of data over the course of its lifetime to inform marketing 
+          campaigns for att.com. Incorporated an additional 1200+ lines of Mockito unit testing code, and performed 
+          stress-testing to ensure stability under various data loads
           - Proposed the practice of automated unit test generation using a tool called "EvoSuite" for a yearly innovation
           sprint and upon approval, was tasked with guiding its implementation among a team of 9 other engineers, resulting 
           in high-coverage, low-overhead test suites that required significantly less time to produce when compared alongside 
-          their manually produced counterparts.
+          their manually produced counterparts
           - Served as the local Community Engagement lead and helped organize several virtual volunteering/fundraising opportunities 
           with organizations such as Feeding America and MakerGirl, achieving just over \$500 allocated towards various causes over 
-          the course of my service.
+          the course of my service
       - layout: left
         title: The Home Depot
         sub_title: Software Engineer Intern
@@ -120,7 +125,6 @@ content:
         title: Rollout Deliveries
         sub_title: Software Engineer Intern
         caption: May 2018 - August 2018
-        # link: at&t.com
         # quote: >
           # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -141,9 +145,8 @@ content:
             icon: fab fa-github
             url: https://github.com/benjamincarney/Accev
         description: | # this will include new lines to allow paragraphs
-          Designed and implemented a crowd-sourced Swift/Firebase iOS application that maps out various accessibility features at local businesses,
-          landmarks, and other public areas for individuals with disabilities using Google Maps/Places API. Streamlined registration, login, and 
-          authentication system using secure native credential option and Google/Facebook APIs.
+          A senior capstone project utilizing Swift/Firebase/Google Maps API for iOS that 
+          utilizes crowd-sourced data to map accessibility features in public areas for individuals with disabilities
 
           ![AccevCollage](/images/AccevCollage.jpg)
 
@@ -171,8 +174,8 @@ content:
             icon: fab fa-github
             url: https://github.com/benjamincarney/Garduino
         description: | # this will include new lines to allow paragraphs
-          Built an automated irrigation system that utilizes a resistive soil moisture sensor, a DC powered solenoid valve and an Arduino circuit board to control
-          the flow of water through my personal tomato and pepper garden. Written in C++.
+          An automated irrigation system written in C++ that utilizes a resistive soil moisture sensor, a DC powered solenoid valve, and an Arduino 
+          microcontroller to control the flow of water through my personal garden
 
           ![GarduinoCollage](/images/GarduinoCollage.jpg)
 
@@ -194,9 +197,9 @@ content:
   - title: Skills & Technologies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Proficient:</mark> C++, Python, Swift, JavaScript, ReactJS, NodeJS, HTML/CSS, Bash, SQL, NoSQL, LaTeX, Git, OSX
-
-      - <mark>Working knowledge:</mark> OCaml, Java, C#, React Native, Arduino, Flask, Windows, Linux
+      - <mark>Languages:</mark> C++, Python, Swift, Java, JavaScript, TypeScript, HTML/CSS, Bash, SQL, NoSQL, LaTeX, OCaml
+      - <mark>Frameworks & Libraries:</mark> React, Node.js, Flask, JUnit, Mocha, Jest
+      - <mark>Developer Tools:</mark> Git, Docker, TravisCI, AWS, VSCode, XCode, IntelliJ, Eclipse, Linux, Unix
 
 # Footer
 footer_show_references: false
