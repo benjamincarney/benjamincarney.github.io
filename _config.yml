@@ -51,9 +51,15 @@ linkedin_username: benjamincarney
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello and welcome to my personal website. I'm currently work at NVIDIA as a Systems Software Engineer on 
-  the autonomous vehicle mapping team. My experience spans everywhere from writing fullstack web and 
-  mobile apps to developing onboard vehicle software for autonomous vehicles (my current role). 
+  Creative thinker with strong problem-solving foundations that can be applied across a broad range of domains in technology and elsewhere. 
+
+  I am currently working with the autonomous vehicle team at NVIDIA and am helping to build in-vehicle data collection software that is used 
+  to create highly precise 3D maps with lidar, radar, and other sensor data. My time with DeepMap and NVIDIA has been a great learning 
+  experience so far, and I find the day-to-day work to be extremely rewarding with the problems that I work on.
+
+  Outside of work I enjoy playing music and have been doing so for about 15 years with guitar and bass guitar as my primary instruments. 
+  I also enjoy staying active and try to maintain a healthy mix of weightlifting and other forms of exercises such as skiing 
+  (if and when the weather permits).
 
 content:
   - title: Experience
